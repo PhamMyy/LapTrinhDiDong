@@ -11,3 +11,4 @@ Bài tập 23: Xây dựng ứng dụng di động nghe đài trực tuyến Ph�
 
 4)Hỗ trợ tính năng ghi âm ra file theo thời lượng lựa chọn bởi người dùng.
 
+*Lưu ý: file "raw" nằm trong tệp "res" đang trống, hãy thêm các file .mp3 của podcast (tải từ youtube coccoc hoặc qua spotify downloader) và đặt tên tƯơng ứng trong source code.
